@@ -48,18 +48,24 @@ O problema apresentado pelo Banco PAN consiste na atual plataforma de pesquisa (
 
 ## 📝 LINK
 
-Clique <a href="https://www.linkedin.com/in/victorbarq/">AQUI</a> para ver o projeto funcionando. 
+Clique <a href="https://kp6pnx-1234.csb.app/">AQUI</a> para ver o projeto funcionando. (O link é temporário, já que está no CodeSandBox)
 
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T9_G3_V03_Web_application_document.pdf<br>
-  &emsp;| T9_G3_V03_Web_application_document.docx<br>
+  &emsp;| T9_G3_V3.1_Web_application_document.pdf<br>
+  &emsp;| T9_G3_V3.1_Web_application_document.docx<br>
 |--> imagens<br>
 |--> src<br>
-  &emsp;|--> Backend<br>
-  &emsp;|--> Frontend<br>
+  &emsp;|--> backend<br>
+    &emsp; &emsp;| --> data <br>
+  &emsp;|--> frontend<br>
+  &emsp; &emsp;| --> assets <br>
+  &emsp; &emsp; &emsp;| --> css <br>
+  &emsp; &emsp; &emsp;| --> img <br>
+  &emsp; &emsp; &emsp;| --> js <br>
+  &emsp; &emsp;| --> html <br>
 | readme.md<br>
 | license.txt
 
@@ -114,7 +120,7 @@ npm start
 
 ## 📋 Licença/License
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc :attributionURL" href="https://github.com/2023M2T9-Inteli/projeto3">Projeto Athena</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href=" https://github.com/2023M2T9-Inteli/projeto3">INTELI, Ana Luisa Goes Barbosa, Guilherme Ferreira Linhares, Pedro Henrique Oliveira Lima, , Paulo Octavio De Paula, Pedro Morita Bannwart, Raphaela Guiland Ferraz, Thiago Goulart de Oliveira, Tommy Ken Ishimatsu goto</a> está licenciado sob o estilo <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" ="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc :attributionURL" href="https://github.com/2023M2T9-Inteli/projeto3">Projeto Athena</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/2023M2T9-Inteli/projeto3">INTELI, Ana Luisa Goes Barbosa, Guilherme Ferreira Linhares, Pedro Henrique Oliveira Lima, Paulo Octavio De Paula, Pedro Morita Bannwart, Raphaela Guiland Ferraz, Thiago Goulart de Oliveira, Tommy Ken Ishimatsu goto</a> está licenciado sob o estilo <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" ="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 ## 🎓 Referências
 
